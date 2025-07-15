@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Jesse Jr. and I am currently expanding my knowlegde in JavaScript and technologies related to it.
+
 <!--
 **cishakajj/cishakajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
